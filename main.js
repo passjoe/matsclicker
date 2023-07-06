@@ -2,7 +2,7 @@ let canvas = document.getElementById("gameCanvas");
 let ctx = canvas.getContext("2d");
 
 let img = new Image();
-img.src = 'cookie.png'; // use a picture of a cookie
+img.src = 'IMG_5283.png'; // use a picture of a cookie
 
 let score = 0;
 let scoreText = document.getElementById("score");
